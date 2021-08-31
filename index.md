@@ -1,14 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/parulJain30/ParulJain.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first time github website. It is interesting to learn the new functionlities of Github other than just version control. 
+you can check my Git repositories at [here.](https://github.com/parulJain30)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Here is a quick tutorial for you to learn Markdown Language.
 
 ```markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 Syntax highlighted code block
 
 # Header 1
@@ -27,5 +26,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-![img](https://github.com/parulJain30/BDA594-Parul/blob/51cb7515f362ddc2264ca389b936178a6d8da10c/Jump.JPG)
