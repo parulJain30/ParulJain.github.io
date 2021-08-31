@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
-This is my first time github website. It is interesting to learn the new functionlities of Github other than just version control. 
+This is my first time creating github website. It is interesting to learn the new functionlities of Github other than just version control and code collaboration. 
 you can check my Git repositories at [here.](https://github.com/parulJain30)
+
+**Keep an eye on my githhub page for future projects.**
 
 ### Here is a quick tutorial for you to learn Markdown Language.
 
@@ -26,3 +28,5 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### _This was a fun learning Session_  
