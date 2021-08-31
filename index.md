@@ -28,5 +28,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Watch me jump in the pool of Big Data Analytics (with a life jacket ofcourse! :wink: )
 
-
+```
 ![image](https://github.com/parulJain30/BDA594-Parul/blob/master/Jump.JPG)
+```
