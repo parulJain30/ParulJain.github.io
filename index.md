@@ -5,7 +5,6 @@ you can check my Git repositories at [here.](https://github.com/parulJain30)
 
 ### Here is a quick tutorial for you to learn Markdown Language.
 
-```markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Syntax highlighted code block
@@ -23,11 +22,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Watch me jump in the pool of Big Data Analytics (with a life jacket ofcourse! :wink: )
 
-```
 ![image](https://github.com/parulJain30/BDA594-Parul/blob/master/Jump.JPG)
-```
+
