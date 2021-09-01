@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 This is my first time creating github website. It is interesting to learn the new functionlities of Github other than just version control and code collaboration. 
-you can check my Git repositories at [here.](https://github.com/parulJain30)
+You can check my Git repositories at [here.](https://github.com/parulJain30)
 
 **Keep an eye on my githhub page for future projects.**
 
